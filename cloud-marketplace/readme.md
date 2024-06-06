@@ -1,4 +1,4 @@
-# <img src="https://srtcdnstorage.blob.core.windows.net/software/nextgen/slserver/titansyslog48.png" alt="Titan SysLog Server logo"> Titan SysLog Server - Cloud Marketplace Repository </img>
+# <img src="https://srtcdnstorage.blob.core.windows.net/software/nextgen/slserver/titansyslog48.png" alt="Titan AV Server logo"> Titan AV Server - Cloud Marketplace Repository </img>
 
 This repository contains various documents and utilities for users of our Titan AV Server cloud marketplace offering.
 
