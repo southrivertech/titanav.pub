@@ -10,5 +10,5 @@ and tuned for various uses.
 
 The Cloud Edition of Titan AV Server been preconfigured with all features enabled.
 
-| [Linux 64-bit](https://github.com/southrivertech/titanav.pub/blob/main/cloud-marketplace/linux-x64/gettingstarted.md) | [Windows 64-bit](https://github.com/southrivertech/titanav.pub/blob/main/cloud-marketplace/win-x64/gettingstarted.md) |
+| [Linux 64-bit](https://github.com/southrivertech/titanav.pub/blob/main/cloud-marketplace/linux-x64/gettingstarted.md) | [Windows 64-bit](https://github.com/southrivertech/titanav.pub/blob/master/cloud-marketplace/win-x64/gettingstarted.md) |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
