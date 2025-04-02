@@ -15,7 +15,7 @@ Titan AV Server allows clients to scan files for viruses and malware via the ind
 1. Launch your VM or instance and RDP into the Windows server with your chosen credentials (specified when creating the VM)
 2. Launch the Titan AV Server Administrator UI by clicking on the desktop icon for the Titan AV Server. The first time you run the Administrator it will prompt you to create a new Administrator account to allow configuring the Titan AV Server.
 3. To configure the Titan AV server click on the "Services" tab node under the "Default AV Server" instance. From here you can see that the server is preconfigured to listen on TCP port 1344 for ICAP protocol.
-4. After the Titan AV Server is configured and listening on port 1344 for ICAP requests you can then convigure your software that understands the ICAP protocol to talk to Titan AV Server. An example of this would be the [Titan MFT Server](https://southrivertech.com/cloud-titan-managed-file-transfer) which can be configured to perform AV scans on files with the ICAP protocol.
+4. After the Titan AV Server is configured and listening on port 1344 for ICAP requests you can then configure your software that understands the ICAP protocol to talk to Titan AV Server. An example of this would be the [Titan MFT Server](https://southrivertech.com/cloud-titan-managed-file-transfer) which can be configured to perform AV scans on files with the ICAP protocol.
 
 ## Remote Administration
 
